@@ -1,0 +1,23 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulohrodrigues/test-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohrodrigues/test-ci/issues"
+  },
+  "homepage": "https://github.com/paulohrodrigues/test-ci#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
