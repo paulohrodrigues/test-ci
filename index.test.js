@@ -7,3 +7,7 @@ test('test get', () => {
 test('test post', () => {
   expect(new Index().post()).toBe('test post');
 });
+
+test('test post', () => {
+  expect(new Index().post()).toBe('test post');
+});
